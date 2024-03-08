@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search</title>
+    <style>
+        body {
+            background-color: #191919;
+            color: white;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        select {
+            width: 100%;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            box-sizing: border-box;
+            margin-bottom: 20px;
+            font-size: 16px;
+        }
+        select option {
+            background-color: #444;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        input[type="hidden"] {
+            display: none;
+        }
+        .container {
+            margin-top: 20px;
+        }
+        b{
+        color: white;
+        font-size: 20px;
+
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        <p>
+            <b>{{related_facet_key}}</b> with <b>{{final}}</b>
+        </p>
+    </h1>
+
+    <div class="container">
+        <form action="/results" method="post">
+            {% for facet, values in facet_value_pair %}
+            <label for="{{ facet }}">Select a {{ facet }}:</label>
+            <select id="{{ facet }}" name="{{ facet }}">
+                <option value="">Select</option>
+                {% set selected = false %}
+                {% for value in values %}
+                    {% if facet in related_facet_key and selected == false %}
+                        {% set index = related_facet_key.index(facet) %}
+                        {% if final[index] == value %}
+                            <option value="{{ value }}" selected>{{ value }}</option>
+                            {% set selected = true %}
+                        {% else %}
+                            <option value="{{ value }}">{{ value }}</option>
+                        {% endif %}
+                    {% else %}
+                        <option value="{{ value }}">{{ value }}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+            {% endfor %}
+            <input type="hidden" id="long_tail" name="long_tail" value="{{ long_tail }}">
+            <input type="hidden" id="final_url" name="final_url" value="{{ final_url }}">
+            <input type="hidden" id="six_digit_numbers" name="six_digit_numbers" value="{{ six_digit_numbers }}">
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>

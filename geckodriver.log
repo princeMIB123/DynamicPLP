@@ -1,0 +1,1206 @@
+1709519101194	geckodriver	INFO	Listening on 127.0.0.1:21157
+1709519103232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "21158" "--remote ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofilelSQ7De"
+1709519314766	geckodriver	INFO	Listening on 127.0.0.1:21255
+1709519316755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "21256" "--remote ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofile5Cedm9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709519317354	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709519317492	Marionette	INFO	Listening on port 21264
+WebDriver BiDi listening on ws://127.0.0.1:21256
+Read port: 21264
+1709519317851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:21256/devtools/browser/ea76f675-d03f-420a-9164-3d22cd1ccd6f
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709519347377	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22QY_ZuV9mJTJCOGdoSWpIbHROZGkzd2JWNU0zQXliRDZ6aVI5bjdpeHM1VlBZelJtOGtVYVREUFZBRXRwTm5SaXBSREtQbm92JTJCbFNNMlBPRjdNT3BxOVIzJTJGajFmemRscnVjVXZnQWRQU3lzWjIlMkYwOEtsbVB3ME4zZkRvUTZMUyUyRjF5M29LdTZrNDglMkZzblViOURkcDNCcXlmaERzdiUyQlZDUmZmM0VIRTZUSEk3OVNpcnlKSSUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22QY_ZuV9mJTJCOGdoSWpIbHROZGkzd2JWNU0zQXliRDZ6aVI5bjdpeHM1VlBZelJtOGtVYVREUFZBRXRwTm5SaXBSREtQbm92JTJCbFNNMlBPRjdNT3BxOVIzJTJGajFmemRscnVjVXZnQWRQU3lzWjIlMkYwOEtsbVB3ME4zZkRvUTZMUyUyRjF5M29LdTZrNDglMkZzblViOURkcDNCcXlmaERzdiUyQlZDUmZmM0VIRTZUSEk3OVNpcnlKSSUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22QY_ZuV9mJTJCOGdoSWpIbHROZGkzd2JWNU0zQXliRDZ6aVI5bjdpeHM1VlBZelJtOGtVYVREUFZBRXRwTm5SaXBSREtQbm92JTJCbFNNMlBPRjdNT3BxOVIzJTJGajFmemRscnVjVXZnQWRQU3lzWjIlMkYwOEtsbVB3ME4zZkRvUTZMUyUyRjF5M29LdTZrNDglMkZzblViOURkcDNCcXlmaERzdiUyQlZDUmZmM0VIRTZUSEk3OVNpcnlKSSUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.tatadigital.com/v2/tdl-sso-auth.js, line 2: Script terminated by timeout at:
+ue/<@https://accounts.tatadigital.com/v2/tdl-sso-auth.js:2:62729
+e@https://accounts.tatadigital.com/v2/tdl-sso-auth.js:2:62589
+
+1709519716987	Marionette	INFO	Stopped listening on port 21264
+Dynamically enable window occlusion 1
+1709520017541	geckodriver	INFO	Listening on 127.0.0.1:21579
+1709520019569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "21580" "--remote ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofile3nrteD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709520020218	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709520020370	Marionette	INFO	Listening on port 21587
+WebDriver BiDi listening on ws://127.0.0.1:21580
+Read port: 21587
+1709520020741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:21580/devtools/browser/3593dab6-ae22-44d6-8636-e15ae1b714a0
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709520050413	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22xlIZvl94cXBBWERzcVNlZXFsc20xaGRGJTJCS2FxMWZSazVWdURYaXZFQ3ZpZDZ5UjM2JTJCZTE5TlNScFVBd2hTT0h1SkVSU2JTYiUyQkxaaUpkJTJCdjZ5NiUyRkowcEtSckg2ZW5rVlBLdFRSelpKU1VrbHRuQlNIc3hEUXN6QlpUSnJZT3BwWEZwODdsSlFhbkc3eHBFMEhWRzlUSExNN1h4TjU5WUElMkZzRGJGTEEzeXJBZlVNbFklM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22xlIZvl94cXBBWERzcVNlZXFsc20xaGRGJTJCS2FxMWZSazVWdURYaXZFQ3ZpZDZ5UjM2JTJCZTE5TlNScFVBd2hTT0h1SkVSU2JTYiUyQkxaaUpkJTJCdjZ5NiUyRkowcEtSckg2ZW5rVlBLdFRSelpKU1VrbHRuQlNIc3hEUXN6QlpUSnJZT3BwWEZwODdsSlFhbkc3eHBFMEhWRzlUSExNN1h4TjU5WUElMkZzRGJGTEEzeXJBZlVNbFklM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22xlIZvl94cXBBWERzcVNlZXFsc20xaGRGJTJCS2FxMWZSazVWdURYaXZFQ3ZpZDZ5UjM2JTJCZTE5TlNScFVBd2hTT0h1SkVSU2JTYiUyQkxaaUpkJTJCdjZ5NiUyRkowcEtSckg2ZW5rVlBLdFRSelpKU1VrbHRuQlNIc3hEUXN6QlpUSnJZT3BwWEZwODdsSlFhbkc3eHBFMEhWRzlUSExNN1h4TjU5WUElMkZzRGJGTEEzeXJBZlVNbFklM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22xlIZvl94cXBBWERzcVNlZXFsc20xaGRGJTJCS2FxMWZSazVWdURYaXZFQ3ZpZDZ5UjM2JTJCZTE5TlNScFVBd2hTT0h1SkVSU2JTYiUyQkxaaUpkJTJCdjZ5NiUyRkowcEtSckg2ZW5rVlBLdFRSelpKU1VrbHRuQlNIc3hEUXN6QlpUSnJZT3BwWEZwODdsSlFhbkc3eHBFMEhWRzlUSExNN1h4TjU5WUElMkZzRGJGTEEzeXJBZlVNbFklM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: CompositorBridgeChild receives IPC close with r[GFX1-]: Compositor[GFX1eason=AbnoBridgeCrmalShutdownh
+[ild receives IPC close with r-]: CompositoGFX1-]: CompositorBridgeChild receives IPC close with reason=Abenason=AbnormalShutdownormalShutdown
+
+rBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompoExiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ent
+1709520226842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709520226997	Marionette	INFO	Listening on port 21856
+WebDriver BiDi listening on ws://127.0.0.1:21846
+Read port: 21856
+1709520227242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:21846/devtools/browser/c5525132-2db7-4821-ab3e-c8315a8f2540
+1709520258117	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+[1709520477069	geckodriver	INFO	Listening on 127.0.0.1:22161
+1709520479079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22162" "--remote ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileUQ32IE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709520479707	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709520479844	Marionette	INFO	Listening on port 22172
+WebDriver BiDi listening on ws://127.0.0.1:22162
+Read port: 22172
+1709520480122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:22162/devtools/browser/f3c2d97a-9f38-442e-bd1a-3f2ff04c9100
+1709520483827	Marionette	INFO	Stopped listening on port 22172
+Dynamically enable window occlusion 1
+1709520636320	geckodriver	INFO	Listening on 127.0.0.1:22365
+1709520638311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22366" "--remote ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofile3HuN2q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709520638931	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709520639065	Marionette	INFO	Listening on port 22377
+WebDriver BiDi listening on ws://127.0.0.1:22366
+Read port: 22377
+1709520639351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:22366/devtools/browser/15d380be-b302-4e62-ae7a-ff83e8faf2ef
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22tzjcJ193MDhUWTRpejQzaVRGRHd5MGtxQm1KJTJGcXFFY1RMbWN6byUyQlJVJTJGaFBTZDUyVVBxbzhsckxoZFYlMkI3UjdaeDNpYmJaQlJiMkpmM3VhNzM1aVVYQkxNZiUyRjRWRVNDemNzaFBuSnp0RElRcm04MWNOV25jMXg3S0RnTFRTWHNRbWFMazZhRHdoVmE5d3o1VjZydXI1bkFLaER0U3kzSlE1QUE5ZjJKVDR5bCUyQm5WMUUlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22tzjcJ193MDhUWTRpejQzaVRGRHd5MGtxQm1KJTJGcXFFY1RMbWN6byUyQlJVJTJGaFBTZDUyVVBxbzhsckxoZFYlMkI3UjdaeDNpYmJaQlJiMkpmM3VhNzM1aVVYQkxNZiUyRjRWRVNDemNzaFBuSnp0RElRcm04MWNOV25jMXg3S0RnTFRTWHNRbWFMazZhRHdoVmE5d3o1VjZydXI1bkFLaER0U3kzSlE1QUE5ZjJKVDR5bCUyQm5WMUUlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22tzjcJ193MDhUWTRpejQzaVRGRHd5MGtxQm1KJTJGcXFFY1RMbWN6byUyQlJVJTJGaFBTZDUyVVBxbzhsckxoZFYlMkI3UjdaeDNpYmJaQlJiMkpmM3VhNzM1aVVYQkxNZiUyRjRWRVNDemNzaFBuSnp0RElRcm04MWNOV25jMXg3S0RnTFRTWHNRbWFMazZhRHdoVmE5d3o1VjZydXI1bkFLaER0U3kzSlE1QUE5ZjJKVDR5bCUyQm5WMUUlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22tzjcJ193MDhUWTRpejQzaVRGRHd5MGtxQm1KJTJGcXFFY1RMbWN6byUyQlJVJTJGaFBTZDUyVVBxbzhsckxoZFYlMkI3UjdaeDNpYmJaQlJiMkpmM3VhNzM1aVVYQkxNZiUyRjRWRVNDemNzaFBuSnp0RElRcm04MWNOV25jMXg3S0RnTFRTWHNRbWFMazZhRHdoVmE5d3o1VjZydXI1bkFLaER0U3kzSlE1QUE5ZjJKVDR5bCUyQm5WMUUlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709520669014	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22-X1EZF93MDhUWTRpejQzaVRGRHd5MGtxQm1MaWExcjJQbmw1YVV6cDdOQmJ4c1hkak1jVVR6ZGJ3QiUyQk0lMkZBVUsyMnNGSTFkTVprcTAzdEVxRCUyQklYSFY1aVZMZzgwd1pLemxkQzBGQlFhQ0c5WlV0NjNEejBYUm1uaW5wc3pWaTRNSUp5WWVSd0ZmNDQ5NUpVWGJyOEFBMXdXeFd1QmxsMmJZJTJCdlpuVWRSdG5xTWE4USUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22-X1EZF93MDhUWTRpejQzaVRGRHd5MGtxQm1MaWExcjJQbmw1YVV6cDdOQmJ4c1hkak1jVVR6ZGJ3QiUyQk0lMkZBVUsyMnNGSTFkTVprcTAzdEVxRCUyQklYSFY1aVZMZzgwd1pLemxkQzBGQlFhQ0c5WlV0NjNEejBYUm1uaW5wc3pWaTRNSUp5WWVSd0ZmNDQ5NUpVWGJyOEFBMXdXeFd1QmxsMmJZJTJCdlpuVWRSdG5xTWE4USUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22-X1EZF93MDhUWTRpejQzaVRGRHd5MGtxQm1MaWExcjJQbmw1YVV6cDdOQmJ4c1hkak1jVVR6ZGJ3QiUyQk0lMkZBVUsyMnNGSTFkTVprcTAzdEVxRCUyQklYSFY1aVZMZzgwd1pLemxkQzBGQlFhQ0c5WlV0NjNEejBYUm1uaW5wc3pWaTRNSUp5WWVSd0ZmNDQ5NUpVWGJyOEFBMXdXeFd1QmxsMmJZJTJCdlpuVWRSdG5xTWE4USUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22K1KhQl93MDhUWTRpejQzaVRGRHd5MGtxQm1HRXNuRkN4cVJ6eHlkNzJWa25lQ09LMWN6VDgxY1VONkpuNm1lT2M1UlBKajlrbHJuZmlxcU84R0NUbGQydm0lMkYlMkZZREN6SndTNDVMekV0SEolMkZLbSUyQkZrWXI2MzFTTjh2bFVyMnRpaUNKTzBHQ3VoeGVSWkJmVlozSVR5UVE5ZHdxYUslMkZvOTlIZGNhVUhGV0hBZSUyRnEzMlUlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22K1KhQl93MDhUWTRpejQzaVRGRHd5MGtxQm1HRXNuRkN4cVJ6eHlkNzJWa25lQ09LMWN6VDgxY1VONkpuNm1lT2M1UlBKajlrbHJuZmlxcU84R0NUbGQydm0lMkYlMkZZREN6SndTNDVMekV0SEolMkZLbSUyQkZrWXI2MzFTTjh2bFVyMnRpaUNKTzBHQ3VoeGVSWkJmVlozSVR5UVE5ZHdxYUslMkZvOTlIZGNhVUhGV0hBZSUyRnEzMlUlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22K1KhQl93MDhUWTRpejQzaVRGRHd5MGtxQm1HRXNuRkN4cVJ6eHlkNzJWa25lQ09LMWN6VDgxY1VONkpuNm1lT2M1UlBKajlrbHJuZmlxcU84R0NUbGQydm0lMkYlMkZZREN6SndTNDVMekV0SEolMkZLbSUyQkZrWXI2MzFTTjh2bFVyMnRpaUNKTzBHQ3VoeGVSWkJmVlozSVR5UVE5ZHdxYUslMkZvOTlIZGNhVUhGV0hBZSUyRnEzMlUlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22K1KhQl93MDhUWTRpejQzaVRGRHd5MGtxQm1HRXNuRkN4cVJ6eHlkNzJWa25lQ09LMWN6VDgxY1VONkpuNm1lT2M1UlBKajlrbHJuZmlxcU84R0NUbGQydm0lMkYlMkZZREN6SndTNDVMekV0SEolMkZLbSUyQkZrWXI2MzFTTjh2bFVyMnRpaUNKTzBHQ3VoeGVSWkJmVlozSVR5UVE5ZHdxYUslMkZvOTlIZGNhVUhGV0hBZSUyRnEzMlUlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FGDIWF93MDhUWTRpejQzaVRGRHd5MGtxQm1IdmJVakd6czNUS04zMWNCNGptNmZlSDlZS2tUaCUyRnVHTyUyQk5Da1p1SlI2V0dPSktUN29QMG9nOUZzJTJGQXBLSVh2VFJib3FNSFlVRENsZFExJTJCRVFXN0tNNnFrSzVCVGVobFJaNW5lQ3NZRW1TUGxNcTB1ZVolMkJEQmlXZWhYWDB1OXN6M0t4N0V2TnB5bHV5UUFXMUUwYkRNJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FGDIWF93MDhUWTRpejQzaVRGRHd5MGtxQm1IdmJVakd6czNUS04zMWNCNGptNmZlSDlZS2tUaCUyRnVHTyUyQk5Da1p1SlI2V0dPSktUN29QMG9nOUZzJTJGQXBLSVh2VFJib3FNSFlVRENsZFExJTJCRVFXN0tNNnFrSzVCVGVobFJaNW5lQ3NZRW1TUGxNcTB1ZVolMkJEQmlXZWhYWDB1OXN6M0t4N0V2TnB5bHV5UUFXMUUwYkRNJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FGDIWF93MDhUWTRpejQzaVRGRHd5MGtxQm1IdmJVakd6czNUS04zMWNCNGptNmZlSDlZS2tUaCUyRnVHTyUyQk5Da1p1SlI2V0dPSktUN29QMG9nOUZzJTJGQXBLSVh2VFJib3FNSFlVRENsZFExJTJCRVFXN0tNNnFrSzVCVGVobFJaNW5lQ3NZRW1TUGxNcTB1ZVolMkJEQmlXZWhYWDB1OXN6M0t4N0V2TnB5bHV5UUFXMUUwYkRNJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FGDIWF93MDhUWTRpejQzaVRGRHd5MGtxQm1IdmJVakd6czNUS04zMWNCNGptNmZlSDlZS2tUaCUyRnVHTyUyQk5Da1p1SlI2V0dPSktUN29QMG9nOUZzJTJGQXBLSVh2VFJib3FNSFlVRENsZFExJTJCRVFXN0tNNnFrSzVCVGVobFJaNW5lQ3NZRW1TUGxNcTB1ZVolMkJEQmlXZWhYWDB1OXN6M0t4N0V2TnB5bHV5UUFXMUUwYkRNJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1709520890620	geckodriver	INFO	Listening on 127.0.0.1:22643
+1709520892655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22644" "--remote ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileOzwCFH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709520893305	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709520893441	Marionette	INFO	Listening on port 22651
+WebDriver BiDi listening on ws://127.0.0.1:22644
+Read port: 22651
+1709520893729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:22644/devtools/browser/b23fcf1d-f5b5-4a9a-9b12-b9eff29125ff
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709520924190	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709520979459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709520979890	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+[GFX1-]: Composi[GFX1[GFX1to-]: CrBridgeChild oreceivmpositorBes IPridgeC-C clhild receives IPCos[GFX1-]: Exiting due to channel error.
+CompositorB]: CridgeC hild receives IPC close with reason=AbnormalShutdown
+ompositclose with reason=AbnormalShutdown
+orBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1709521216397	geckodriver	INFO	Listening on 127.0.0.1:23348
+1709521218684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "23349" "--remote ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileJeKRrP"
+1709521235157	geckodriver	INFO	Listening on 127.0.0.1:23394
+1709521237147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "23395" "--remote ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileGfttun"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709521237759	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709521237901	Marionette	INFO	Listening on port 23402
+WebDriver BiDi listening on ws://127.0.0.1:23395
+Read port: 23402
+1709521238312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:23395/devtools/browser/d8638252-760a-4dff-bb49-44716ee55c5d
+1709521249075	Marionette	INFO	Stopped listening on port 23402
+Dynamically enable window occlusion 1
+1709521487296	geckodriver	INFO	Listening on 127.0.0.1:23639
+1709521489315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "23640" "--remote ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofile2jnRZz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709521489976	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709521490119	Marionette	INFO	Listening on port 23648
+Read port: 23648
+WebDriver BiDi listening on ws://127.0.0.1:23640
+1709521490266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:23640/devtools/browser/16ab37b0-82c7-4269-a89e-6f85a554bb97
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+1709521520313	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild recei[[GFX1ves IP-]: CoC close with reason=AbnormalShutdownmpositorBrid
+[GFX1GFX1-]: CompositorBridgeChild receives IPC close wit-geChild receives I[]h reason=AbnormalShutdown:
+G CompositorBridgeChild receives IPC clos[GFX1-]: CompositorBridgeChilFe wPC close with reasoXith reason=AbnormalShutdown
+1-]:d receives IPC close with reason=AbnormalShutdown
+ CompositorBridgeChild receives IPC close win=AbnormalShutdown
+th reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1709532509609	geckodriver	INFO	Listening on 127.0.0.1:2189
+1709532511639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2190" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofile5JAbzZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709532513006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709532513470	Marionette	INFO	Listening on port 2199
+WebDriver BiDi listening on ws://127.0.0.1:2190
+Read port: 2199
+1709532514362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:2190/devtools/browser/09a4ffde-7165-4192-b1a2-5f06820d0ddc
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://accounts.tatadigital.com/v2/tdl-sso-auth.js, line 2: Script terminated by timeout at:
+ue/<@https://accounts.tatadigital.com/v2/tdl-sso-auth.js:2:62729
+e@https://accounts.tatadigital.com/v2/tdl-sso-auth.js:2:62589
+
+1709532526276	Marionette	INFO	Stopped listening on port 2199
+Dynamically enable window occlusion 1
+1709532977387	geckodriver	INFO	Listening on 127.0.0.1:2491
+1709532979423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2492" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileVJWm9S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709532980049	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709532980188	Marionette	INFO	Listening on port 2499
+WebDriver BiDi listening on ws://127.0.0.1:2492
+Read port: 2499
+1709532980484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:2492/devtools/browser/232531d0-903d-4bb3-888f-291dc139b7ae
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709533010163	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709533014102	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709533014529	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyC2RQK6774jlJIuIAnbZGaJw17CrM6DYdQ&libraries=places&callback=initMap, line 213: Error: Could not load "geocoder".
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709533019097	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709533019411	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+[GFX1-][: GFX1-C]:ompositorBridgeChild receives [GFX1-]: Compositor[GFX1-]: CompoIPC cBridgelose with Compo reason=AbnormsitorBridgeChild receives IPC close with reaChild[son=AbnormalShutdown receives IPC close with reason=AbnormalShutdownsitorBridgeChild receives IPC close with reason=AbnormalShutdo
+wn
+
+GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1709533158126	geckodriver	INFO	Listening on 127.0.0.1:2757
+1709533160116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2758" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileGp5XEP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709533160721	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709533160866	Marionette	INFO	Listening on port 2765
+WebDriver BiDi listening on ws://127.0.0.1:2758
+Read port: 2765
+1709533161126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:2758/devtools/browser/598bf4eb-5a82-4642-a4e3-53d19246a6b0
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709533190795	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%220u_y8l81dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUM0WnpnQThDJTJGOWMwcXpUanZNYjFENVZJanNqTkd3NHYyQ1hoJTJGZENhNlB0YyUyQkhYN1lRbUU1QzVxZWM3JTJGdmZIOGp4VGdFRXVFdGZ5VG54VjZqaFpLb2JudFBQak8lMkZoM1A3UXpNWmd4REgybzZFcm1mQVZ0eFRGMWhMNkZHOTVMUnpiQVlob2RZaVgwTHp5SDhuRlJ3bFElM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%220u_y8l81dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUM0WnpnQThDJTJGOWMwcXpUanZNYjFENVZJanNqTkd3NHYyQ1hoJTJGZENhNlB0YyUyQkhYN1lRbUU1QzVxZWM3JTJGdmZIOGp4VGdFRXVFdGZ5VG54VjZqaFpLb2JudFBQak8lMkZoM1A3UXpNWmd4REgybzZFcm1mQVZ0eFRGMWhMNkZHOTVMUnpiQVlob2RZaVgwTHp5SDhuRlJ3bFElM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%220u_y8l81dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUM0WnpnQThDJTJGOWMwcXpUanZNYjFENVZJanNqTkd3NHYyQ1hoJTJGZENhNlB0YyUyQkhYN1lRbUU1QzVxZWM3JTJGdmZIOGp4VGdFRXVFdGZ5VG54VjZqaFpLb2JudFBQak8lMkZoM1A3UXpNWmd4REgybzZFcm1mQVZ0eFRGMWhMNkZHOTVMUnpiQVlob2RZaVgwTHp5SDhuRlJ3bFElM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22Jtz3Sl81dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUYxYnE1TEhITzBLMGdUS0N3ZXFwRFAwVFE4cUtrMXFSR0RiSVZWNnJVS2lMYyUyRkxOOVV2YzB1elJmVWdtZGNlOHQxc0hyZUV5a3lLa2IlMkZmdCUyQmRQR2MwMXo2dk1GJTJCeDJsZHhJMjElMkJWSm1tc2Nsc1dzRGwzT28ycmlZSEwyVEJoTiUyRlZNSE0wUkJXSjBSRU1nS0VCNXUlMkZrJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22Jtz3Sl81dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUYxYnE1TEhITzBLMGdUS0N3ZXFwRFAwVFE4cUtrMXFSR0RiSVZWNnJVS2lMYyUyRkxOOVV2YzB1elJmVWdtZGNlOHQxc0hyZUV5a3lLa2IlMkZmdCUyQmRQR2MwMXo2dk1GJTJCeDJsZHhJMjElMkJWSm1tc2Nsc1dzRGwzT28ycmlZSEwyVEJoTiUyRlZNSE0wUkJXSjBSRU1nS0VCNXUlMkZrJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22Jtz3Sl81dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUYxYnE1TEhITzBLMGdUS0N3ZXFwRFAwVFE4cUtrMXFSR0RiSVZWNnJVS2lMYyUyRkxOOVV2YzB1elJmVWdtZGNlOHQxc0hyZUV5a3lLa2IlMkZmdCUyQmRQR2MwMXo2dk1GJTJCeDJsZHhJMjElMkJWSm1tc2Nsc1dzRGwzT28ycmlZSEwyVEJoTiUyRlZNSE0wUkJXSjBSRU1nS0VCNXUlMkZrJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22Jtz3Sl81dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUYxYnE1TEhITzBLMGdUS0N3ZXFwRFAwVFE4cUtrMXFSR0RiSVZWNnJVS2lMYyUyRkxOOVV2YzB1elJmVWdtZGNlOHQxc0hyZUV5a3lLa2IlMkZmdCUyQmRQR2MwMXo2dk1GJTJCeDJsZHhJMjElMkJWSm1tc2Nsc1dzRGwzT28ycmlZSEwyVEJoTiUyRlZNSE0wUkJXSjBSRU1nS0VCNXUlMkZrJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22BOZe4181dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUZ5YXJhMHR3NEI5UWN0QXZvbEpyT25tcU4lMkJGUG5WOTZQakxnJTJGOW5QZXJ3c25IOXZNWnFtJTJCS0ZQMjVwRTJhS0tZTHNPVm4lMkJXMmlhRmZtY2VQT2VCeWRqNERWYk02a3U4VFVvSEZlVUNBTTdnVXBjRnpWaGdDSWxBVHZpJTJCSVN6aWVJZUwlMkZVdzliVWZaQ3gyaGFNclpWQSUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22BOZe4181dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUZ5YXJhMHR3NEI5UWN0QXZvbEpyT25tcU4lMkJGUG5WOTZQakxnJTJGOW5QZXJ3c25IOXZNWnFtJTJCS0ZQMjVwRTJhS0tZTHNPVm4lMkJXMmlhRmZtY2VQT2VCeWRqNERWYk02a3U4VFVvSEZlVUNBTTdnVXBjRnpWaGdDSWxBVHZpJTJCSVN6aWVJZUwlMkZVdzliVWZaQ3gyaGFNclpWQSUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22BOZe4181dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVUZ5YXJhMHR3NEI5UWN0QXZvbEpyT25tcU4lMkJGUG5WOTZQakxnJTJGOW5QZXJ3c25IOXZNWnFtJTJCS0ZQMjVwRTJhS0tZTHNPVm4lMkJXMmlhRmZtY2VQT2VCeWRqNERWYk02a3U4VFVvSEZlVUNBTTdnVXBjRnpWaGdDSWxBVHZpJTJCSVN6aWVJZUwlMkZVdzliVWZaQ3gyaGFNclpWQSUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%224Hm3z181dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVU96YndGem8zaHdaM05DcyUyRk92NEQzcU1zNTJjclVyb2l2SkwzSSUyRnpCSlpON0g5blBFRmtYeXhHUkZualB1SlR6Zld5SWtHa3dzM0ZNZDJPTWFGVXdad2tqQnlJTXlzcVJwbVR1aVcwN0lmRnlZVngyU2QlMkIyWjhRcTVpRTE2dHZsVXNIeTkxZnZRJTJCN0w1a0QxWUJrOVhFJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%224Hm3z181dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVU96YndGem8zaHdaM05DcyUyRk92NEQzcU1zNTJjclVyb2l2SkwzSSUyRnpCSlpON0g5blBFRmtYeXhHUkZualB1SlR6Zld5SWtHa3dzM0ZNZDJPTWFGVXdad2tqQnlJTXlzcVJwbVR1aVcwN0lmRnlZVngyU2QlMkIyWjhRcTVpRTE2dHZsVXNIeTkxZnZRJTJCN0w1a0QxWUJrOVhFJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%224Hm3z181dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVU96YndGem8zaHdaM05DcyUyRk92NEQzcU1zNTJjclVyb2l2SkwzSSUyRnpCSlpON0g5blBFRmtYeXhHUkZualB1SlR6Zld5SWtHa3dzM0ZNZDJPTWFGVXdad2tqQnlJTXlzcVJwbVR1aVcwN0lmRnlZVngyU2QlMkIyWjhRcTVpRTE2dHZsVXNIeTkxZnZRJTJCN0w1a0QxWUJrOVhFJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%224Hm3z181dEZUbGtNb0ZzbUl1ZG8lMkZwMG5oVU96YndGem8zaHdaM05DcyUyRk92NEQzcU1zNTJjclVyb2l2SkwzSSUyRnpCSlpON0g5blBFRmtYeXhHUkZualB1SlR6Zld5SWtHa3dzM0ZNZDJPTWFGVXdad2tqQnlJTXlzcVJwbVR1aVcwN0lmRnlZVngyU2QlMkIyWjhRcTVpRTE2dHZsVXNIeTkxZnZRJTJCN0w1a0QxWUJrOVhFJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+Exiting due to channel error.
+[GFX1-]: Compos[GFX1-]: ComposiitorBri[GFdgeChil[Gtd receives I[FX1-]: CompGFX1-]o:osir ComtorpositoBridgeChild receives IPC close with reason=AbnormaBr[rBridgeCihild receives IPCd close withlgeChild receivesGS reas IhutdownFo
+PC close with reason=Abn=AbnormalShutdown
+normalShutdown
+X1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1709533343054	geckodriver	INFO	Listening on 127.0.0.1:2998
+1709533345033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2999" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileHesKMa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709533345651	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709533345805	Marionette	INFO	Listening on port 3006
+WebDriver BiDi listening on ws://127.0.0.1:2999
+Read port: 3006
+1709533346046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:2999/devtools/browser/d51acbbf-771c-4e21-9862-5ea3e3eca0e3
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+1709533375911	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22DjBZHF90U0ZEN1hpdWFqcnphMSUyRjBSVEs0bkpSQmlTZndjdXhEJTJCZ3RLRVl4a3B5JTJCTVdHRVJPMXk1NkVXWm9rSWlqTVRGQmpxN0ZCcnN2MGJySWwlMkYlMkJoNlVHdUdZR0hJYW1veDVoaE1FSXBrU2ZRJTJGSVl1NnZFQXBvdXlXJTJCaFNRSnBZeUUlMkJUd0h5RkdNZ2QwVEh0UjgwMWpubmw0bEZRUFJWR3NkcjJyVkU5TkdBb0prJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22DjBZHF90U0ZEN1hpdWFqcnphMSUyRjBSVEs0bkpSQmlTZndjdXhEJTJCZ3RLRVl4a3B5JTJCTVdHRVJPMXk1NkVXWm9rSWlqTVRGQmpxN0ZCcnN2MGJySWwlMkYlMkJoNlVHdUdZR0hJYW1veDVoaE1FSXBrU2ZRJTJGSVl1NnZFQXBvdXlXJTJCaFNRSnBZeUUlMkJUd0h5RkdNZ2QwVEh0UjgwMWpubmw0bEZRUFJWR3NkcjJyVkU5TkdBb0prJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22DjBZHF90U0ZEN1hpdWFqcnphMSUyRjBSVEs0bkpSQmlTZndjdXhEJTJCZ3RLRVl4a3B5JTJCTVdHRVJPMXk1NkVXWm9rSWlqTVRGQmpxN0ZCcnN2MGJySWwlMkYlMkJoNlVHdUdZR0hJYW1veDVoaE1FSXBrU2ZRJTJGSVl1NnZFQXBvdXlXJTJCaFNRSnBZeUUlMkJUd0h5RkdNZ2QwVEh0UjgwMWpubmw0bEZRUFJWR3NkcjJyVkU5TkdBb0prJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22eVZBH190U0ZEN1hpdWFqcnphMSUyRjBSVEs0bk1KU0VXWEVkNjdsdXFxUlVoek9qTUZlWmxrOWR0JTJCWVZ0MHM1TkwxMlRtZ3l2THY4OHg2aU9rNjJBZ0pudEVxUExoeUxpQTQ4NVV2NnM4WkhVblNaVXlndkY3Y2ZYaVh2UXY3bFdocSUyRnBEWiUyRmlsM0hCQU9xSkt4Wlo4WTVSRzlGUVNVV0VYNE9peVNNVUNZZ3pNVnBQVSUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22eVZBH190U0ZEN1hpdWFqcnphMSUyRjBSVEs0bk1KU0VXWEVkNjdsdXFxUlVoek9qTUZlWmxrOWR0JTJCWVZ0MHM1TkwxMlRtZ3l2THY4OHg2aU9rNjJBZ0pudEVxUExoeUxpQTQ4NVV2NnM4WkhVblNaVXlndkY3Y2ZYaVh2UXY3bFdocSUyRnBEWiUyRmlsM0hCQU9xSkt4Wlo4WTVSRzlGUVNVV0VYNE9peVNNVUNZZ3pNVnBQVSUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22eVZBH190U0ZEN1hpdWFqcnphMSUyRjBSVEs0bk1KU0VXWEVkNjdsdXFxUlVoek9qTUZlWmxrOWR0JTJCWVZ0MHM1TkwxMlRtZ3l2THY4OHg2aU9rNjJBZ0pudEVxUExoeUxpQTQ4NVV2NnM4WkhVblNaVXlndkY3Y2ZYaVh2UXY3bFdocSUyRnBEWiUyRmlsM0hCQU9xSkt4Wlo4WTVSRzlGUVNVV0VYNE9peVNNVUNZZ3pNVnBQVSUzRA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%222QDuAl90U0ZEN1hpdWFqcnphMSUyRjBSVEs0bk5IcWRmcktMMkhCUHA5a0xrNWpsSW90M2ZFMkVyJTJGaVdiaVVHWSUyQkV6RkFTREYlMkIwYThIZEtBQU1IZzVjZkNhczVTMUVyUXpqJTJGZ0Z5WEZsUlpwdGNMTFcxUFlveG5XcVFRN1h3R2s5M0VWamJOYlRzOGVlTzZFTmltSUR5JTJCalYxTXIzYmlvd3FwbE5ua1V3QmhQdjZxWmclM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%222QDuAl90U0ZEN1hpdWFqcnphMSUyRjBSVEs0bk5IcWRmcktMMkhCUHA5a0xrNWpsSW90M2ZFMkVyJTJGaVdiaVVHWSUyQkV6RkFTREYlMkIwYThIZEtBQU1IZzVjZkNhczVTMUVyUXpqJTJGZ0Z5WEZsUlpwdGNMTFcxUFlveG5XcVFRN1h3R2s5M0VWamJOYlRzOGVlTzZFTmltSUR5JTJCalYxTXIzYmlvd3FwbE5ua1V3QmhQdjZxWmclM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%222QDuAl90U0ZEN1hpdWFqcnphMSUyRjBSVEs0bk5IcWRmcktMMkhCUHA5a0xrNWpsSW90M2ZFMkVyJTJGaVdiaVVHWSUyQkV6RkFTREYlMkIwYThIZEtBQU1IZzVjZkNhczVTMUVyUXpqJTJGZ0Z5WEZsUlpwdGNMTFcxUFlveG5XcVFRN1h3R2s5M0VWamJOYlRzOGVlTzZFTmltSUR5JTJCalYxTXIzYmlvd3FwbE5ua1V3QmhQdjZxWmclM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22BsXT2V90U0ZEN1hpdWFqcnphMSUyRjBSVEs0bkFRbVNobUl3Tm9hNnZ5cHJ1c3dXJTJGZE1KTXdXVWJqSjJpczZFcWdxQm9XOVo0TUMxNTAxbVIlMkZkbHJPVzYwYmYlMkZSSVJ2WkVhOHRuZnI2JTJCV1pBZ1hoSXQlMkZiZkNVOW5NRTduaUVQeFMwaVZMUm51Z2liQWJjdVJjTzNvYXZzOHZGWFNmRXNkR2pmUW42RUNlNHlOSGtUbmMlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22BsXT2V90U0ZEN1hpdWFqcnphMSUyRjBSVEs0bkFRbVNobUl3Tm9hNnZ5cHJ1c3dXJTJGZE1KTXdXVWJqSjJpczZFcWdxQm9XOVo0TUMxNTAxbVIlMkZkbHJPVzYwYmYlMkZSSVJ2WkVhOHRuZnI2JTJCV1pBZ1hoSXQlMkZiZkNVOW5NRTduaUVQeFMwaVZMUm51Z2liQWJjdVJjTzNvYXZzOHZGWFNmRXNkR2pmUW42RUNlNHlOSGtUbmMlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22BsXT2V90U0ZEN1hpdWFqcnphMSUyRjBSVEs0bkFRbVNobUl3Tm9hNnZ5cHJ1c3dXJTJGZE1KTXdXVWJqSjJpczZFcWdxQm9XOVo0TUMxNTAxbVIlMkZkbHJPVzYwYmYlMkZSSVJ2WkVhOHRuZnI2JTJCV1pBZ1hoSXQlMkZiZkNVOW5NRTduaUVQeFMwaVZMUm51Z2liQWJjdVJjTzNvYXZzOHZGWFNmRXNkR2pmUW42RUNlNHlOSGtUbmMlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: CompositorBridgeChil[GFX1-]: CompositorBridgeChild receives IPC close with reason[GFX1-]: CompositorBridgeChi=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild rece[ives IPC close wlith reasod receives IPC close with reason=A[nd receives I=AbnormalShPC close wiutdGFX1-]: Compownth reason=AbnormalShutdown
+
+bnGormalFX1-]: CompositorBridgeChild receives IPC closoe with reason=AbnormalShutdown
+S[hutdown
+sitorBridgeChild receives IPC closExiting due to channel error.
+e with reason=AbnormalShutdown
+GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1709534083574	geckodriver	INFO	Listening on 127.0.0.1:3757
+1709534085598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3758" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileXLqcFH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709534086246	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709534086381	Marionette	INFO	Listening on port 3769
+WebDriver BiDi listening on ws://127.0.0.1:3758
+Read port: 3769
+1709534086628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:3758/devtools/browser/6f311ac6-c895-4b31-be36-552a22728c76
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709534116324	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22yqOVHV9GOFElMkZHZkhLSnN6d0FUU2IlMkZLbXBDRiUyQkolMkJhbzJ5dVJVNWs2czhsNTlwMzRnZU5HTEgzZlJJbWFGV3JYdlBOVWxwQmUyd011UTMwS01wdUNZZlVtNXlWc2JpcUtiMEhDbHR0cmJSR0oyNnI1OU9JajhVQzhBQWliZHdUWmRmcmVadU1OTjklMkJMZ09EWHU0TVpHNTZySGhWWmRDODlHckl3a2ZKb2ttdHJpWXJFJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22yqOVHV9GOFElMkZHZkhLSnN6d0FUU2IlMkZLbXBDRiUyQkolMkJhbzJ5dVJVNWs2czhsNTlwMzRnZU5HTEgzZlJJbWFGV3JYdlBOVWxwQmUyd011UTMwS01wdUNZZlVtNXlWc2JpcUtiMEhDbHR0cmJSR0oyNnI1OU9JajhVQzhBQWliZHdUWmRmcmVadU1OTjklMkJMZ09EWHU0TVpHNTZySGhWWmRDODlHckl3a2ZKb2ttdHJpWXJFJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22yqOVHV9GOFElMkZHZkhLSnN6d0FUU2IlMkZLbXBDRiUyQkolMkJhbzJ5dVJVNWs2czhsNTlwMzRnZU5HTEgzZlJJbWFGV3JYdlBOVWxwQmUyd011UTMwS01wdUNZZlVtNXlWc2JpcUtiMEhDbHR0cmJSR0oyNnI1OU9JajhVQzhBQWliZHdUWmRmcmVadU1OTjklMkJMZ09EWHU0TVpHNTZySGhWWmRDODlHckl3a2ZKb2ttdHJpWXJFJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1709534132703	Marionette	INFO	Stopped listening on port 3769
+Dynamically enable window occlusion 1
+1709535099923	geckodriver	INFO	Listening on 127.0.0.1:4365
+1709535101930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4366" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofiledL9D14"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709535102619	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709535102773	Marionette	INFO	Listening on port 4387
+WebDriver BiDi listening on ws://127.0.0.1:4366
+Read port: 4387
+1709535103060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:4366/devtools/browser/318849ce-43d1-45a7-b72d-bfdb90c1ce58
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown[
+GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1709535238679	geckodriver	INFO	Listening on 127.0.0.1:5142
+1709535240673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5143" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileXevIVz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709535241348	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709535241488	Marionette	INFO	Listening on port 5165
+Read port: 5165
+WebDriver BiDi listening on ws://127.0.0.1:5143
+1709535241581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:5143/devtools/browser/ca057d0c-e533-4ff4-8b89-4f3f2a77eb51
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709535273433	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+[GF[GFX1-]: CompositorBrid[X1-]: Composit[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdoExiting due to channel error.
+geChild reoGcrFX1-]: CoBridgeChimpositorld receives IPC clBridgeChild r[oseives IPC close with reason=AbnormalShutdown
+e with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+eceives IPC close with reason=AbnormalShutdown
+GFX1-]: CompositorBridgeChilExiting due to channel error.
+1709535506089	geckodriver	INFO	Listening on 127.0.0.1:5806
+1709535508113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5807" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileB9dTNw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709535508781	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709535508917	Marionette	INFO	Listening on port 5823
+Read port: 5823
+WebDriver BiDi listening on ws://127.0.0.1:5807
+1709535509130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:5807/devtools/browser/b92ecda3-bd06-4d10-a6b8-a9cea88fdfc9
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: CompositorBridgeC[GFX1-]: Compos[GFX1-]: CompositorBhild receives IPCitorBridgeChild r[GFX1-]: CompositorBrir[GFX1-]: [GFX1Compos-]itorBridgeChild receives IPC close wieth : cCompositorBridgeChild receives IPC close with reason=AbnormalShut[GFX1-]: CompositorBrdowneives IidgeChild receives IPC close with reason=AbnormalShutdown
+
+PdC close with reason=AbnormalShutdown
+geChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1709535596400	geckodriver	INFO	Listening on 127.0.0.1:5973
+1709535598389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5974" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofile1EwWxa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709535599019	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709535599158	Marionette	INFO	Listening on port 5981
+WebDriver BiDi listening on ws://127.0.0.1:5974
+Read port: 5981
+1709535599384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:5974/devtools/browser/c9520855-b5fe-4ba5-9a88-7ac1a168f723
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709535629049	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709535688604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709535689060	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyC2RQK6774jlJIuIAnbZGaJw17CrM6DYdQ&libraries=places&callback=initMap, line 213: Error: Could not load "geocoder".
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709535690393	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709535691138	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:846:3
+
+console.error: "Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null\nGeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:846:3\n"
+console.error: "Failed to open Windows registry" ({})
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript error: chrome://browser/content/preferences/moreFromMozilla.js, line 83: TypeError: Region.home is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs, line 360: TypeError: browsingContext.currentWindowGlobal is null
+1709535767560	Marionette	INFO	Stopped listening on port 5981
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1709535767629	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 47"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:47
+destroy()@Session.sys.mjs:239
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+1709535841525	geckodriver	INFO	Listening on 127.0.0.1:6276
+1709535843708	geckodriver	INFO	Listening on 127.0.0.1:6281
+1709535845696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6282" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileNdTXXx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709535846551	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709535846702	Marionette	INFO	Listening on port 6307
+WebDriver BiDi listening on ws://127.0.0.1:6282
+Read port: 6307
+1709535847145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:6[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdo[GFX1-]: CompositorBrid[GFX1-[GFX]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1709535946830	geckodriver	INFO	Listening on 127.0.0.1:6399
+1709535948811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6400" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofileXq5jQk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709535949444	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709535949583	Marionette	INFO	Listening on port 6407
+WebDriver BiDi listening on ws://127.0.0.1:6400
+Read port: 6407
+1709535949817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:6400/devtools/browser/ff94df30-1952-4b27-895c-326ad0967890
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709535979544	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709536081930	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1709536082216	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22JPP_I19aMFBLbmM1UmY1WEdjT2t0OExScWtQJTJGektITmRack5aNVdUaWRBb2lrTG1vVTl0RmZQYnpQY3EzMmM0bDVzM3pDamt0QjBNdm9OQnd1Z20lMkJGJTJGZHUyJTJGSnVVVkUlMkJ5RUhxMXJhSUl0UEo0JTJCTU1naWV5ZzlmRkJqSkJGZ2RZemN6YVdIZU95U1hsRkJDamFMUnREUHdjTzNybEUwd2hhMGFRR3FocGVVeUpyRHMlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22JPP_I19aMFBLbmM1UmY1WEdjT2t0OExScWtQJTJGektITmRack5aNVdUaWRBb2lrTG1vVTl0RmZQYnpQY3EzMmM0bDVzM3pDamt0QjBNdm9OQnd1Z20lMkJGJTJGZHUyJTJGSnVVVkUlMkJ5RUhxMXJhSUl0UEo0JTJCTU1naWV5ZzlmRkJqSkJGZ2RZemN6YVdIZU95U1hsRkJDamFMUnREUHdjTzNybEUwd2hhMGFRR3FocGVVeUpyRHMlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22JPP_I19aMFBLbmM1UmY1WEdjT2t0OExScWtQJTJGektITmRack5aNVdUaWRBb2lrTG1vVTl0RmZQYnpQY3EzMmM0bDVzM3pDamt0QjBNdm9OQnd1Z20lMkJGJTJGZHUyJTJGSnVVVkUlMkJ5RUhxMXJhSUl0UEo0JTJCTU1naWV5ZzlmRkJqSkJGZ2RZemN6YVdIZU95U1hsRkJDamFMUnREUHdjTzNybEUwd2hhMGFRR3FocGVVeUpyRHMlM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22NuD8TF9aMFBLbmM1UmY1WEdjT2t0OExScWtMU2FkUjZKdW1YeDlSdWZIJTJCdTRKOEtuNU9lcFhWWXUzQTZGaEJWNVFsZU1UaDV1ekREUzFtcjBlSU4xdGlSSTdCajJwR0syJTJCckU0RHdTRG5ZdmhVRzZwRHdDaUFBUThDcjdiZU01dWplbjcwTzRPWElDSWdrdE5JaDNxZVRhcGU1VlFsS3dQVncwUXdVUHZzSjZ4aUMwJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22NuD8TF9aMFBLbmM1UmY1WEdjT2t0OExScWtMU2FkUjZKdW1YeDlSdWZIJTJCdTRKOEtuNU9lcFhWWXUzQTZGaEJWNVFsZU1UaDV1ekREUzFtcjBlSU4xdGlSSTdCajJwR0syJTJCckU0RHdTRG5ZdmhVRzZwRHdDaUFBUThDcjdiZU01dWplbjcwTzRPWElDSWdrdE5JaDNxZVRhcGU1VlFsS3dQVncwUXdVUHZzSjZ4aUMwJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.croma.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22NuD8TF9aMFBLbmM1UmY1WEdjT2t0OExScWtMU2FkUjZKdW1YeDlSdWZIJTJCdTRKOEtuNU9lcFhWWXUzQTZGaEJWNVFsZU1UaDV1ekREUzFtcjBlSU4xdGlSSTdCajJwR0syJTJCckU0RHdTRG5ZdmhVRzZwRHdDaUFBUThDcjdiZU01dWplbjcwTzRPWElDSWdrdE5JaDNxZVRhcGU1VlFsS3dQVncwUXdVUHZzSjZ4aUMwJTNE%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22croma.com%22,%22topUrl%22:%22www.croma.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC [closGFX1-]Exiting due to channel error.
+e : CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1709536345833	geckodriver	INFO	Listening on 127.0.0.1:6899
+1709536347858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6900" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofilevc3DKQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709536348467	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709536348598	Marionette	INFO	Listening on port 6907
+WebDriver BiDi listening on ws://127.0.0.1:6900
+Read port: 6907
+1709536348864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:6900/devtools/browser/b179b578-fcf1-4455-8204-8dcad601ffbe
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709536370408	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyC2RQK6774jlJIuIAnbZGaJw17CrM6DYdQ&libraries=places&callback=initMap, line 213: Error: Could not load "geocoder".
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyC2RQK6774jlJIuIAnbZGaJw17CrM6DYdQ&libraries=places&callback=initMap, line 213: Error: Could not load "geocoder".
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyC2RQK6774jlJIuIAnbZGaJw17CrM6DYdQ&libraries=places&callback=initMap, line 213: Error: Could not load "geocoder".
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709536372926	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1709536373195	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+1709536378517	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:15032385624"
+console.error: "Unable to find target with innerWindowId:15032385624"
+console.error: "Unable to find target with innerWindowId:15032385624"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:748:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:619:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:349:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:15032385624"
+console.error: "Unable to find target with innerWindowId:15032385633"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:15032385633"
+console.error: "Unable to find target with innerWindowId:15032385633"
+console.error: "Unable to find target with innerWindowId:15032385633"
+console.error: "Unable to find target with innerWindowId:15032385633"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:748:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:619:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:349:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:15032385642"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:15032385642"
+console.error: "Unable to find target with innerWindowId:15032385642"
+console.error: "Unable to find target with innerWindowId:15032385642"
+console.error: "Unable to find target with innerWindowId:15032385642"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:748:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:619:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:349:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:15032385651"
+console.error: "Unable to find target with innerWindowId:15032385651"
+console.error: "Unable to find target with innerWindowId:15032385651"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:15032385651"
+console.error: "Unable to find target with innerWindowId:15032385651"
+console.error: "Unable to find target with innerWindowId:15032385651"
+console.error: "Unable to find target with innerWindowId:15032385651"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:748:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:619:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:349:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.warn: "Listener for event 'frame' did not return a promise."
+[GFX1-]: CompositorB[GFX1-]: C[ompositorBridgeChilGd r[GFX1-]: CoFX1-mposito[]: CorGFX1-]e: CompositExiting due to channel error.
+BmpositorBridgeChiorBridExiting due to channel error.
+rigcle[GFX1edC-]ives IPC[ hilGFX1d r-]: Compositr oe: CompositorBridecegeChild receiveives cceives IPC close wIPC cith reason=AbnormalShutrsdowBridgeChild receives IPC  IPC close with reason=closen AbnormalShu
+ltdown
+ose with reason=Abnorlose with reason=Abnormawith reason=AbnormalShutdown
+lShutdown
+malShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC clExiting due to channel error.
+1709536593682	geckodriver	INFO	Listening on 127.0.0.1:7295
+1709536595672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7296" "--remote- ... llow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\croma_azwinadmin\\AppData\\Local\\Temp\\2\\rust_mozprofile8t8LJq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709536596297	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709536596437	Marionette	INFO	Listening on port 7303
+WebDriver BiDi listening on ws://127.0.0.1:7296
+Read port: 7303
+1709536596732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:7296/devtools/browser/40d4f10d-578a-451c-adcc-e1b197acbbd0
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418241"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:10737418241"
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:10737418242"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: "Unable to find target with innerWindowId:10737418242"
+console.error: "Unable to find target with innerWindowId:6442450956"
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1709536626404	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:6442450965"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418243"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:10737418243"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: "Unable to find target with innerWindowId:6442450974"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418244"
+console.error: "Unable to find target with innerWindowId:6442450974"
+console.error: "Unable to find target with innerWindowId:6442450974"
+console.error: "Unable to find target with innerWindowId:6442450974"
+console.error: "Unable to find target with innerWindowId:10737418244"
+console.error: "Unable to find target with innerWindowId:6442450974"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Firefox Data Provider destroyed while requesting data: No such actor for ID: server0.conn0.netEvent1495"
+console.warn: "Firefox Data Provider destroyed while requesting data: No such actor for ID: server0.conn0.netEvent1495"
+console.error: "Unable to find target with innerWindowId:6442450983"
+console.error: "Unable to find target with innerWindowId:6442450983"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450992"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442450992"
+console.error: "Unable to find target with innerWindowId:6442450992"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:748:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:619:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:349:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442451007"
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: "Unable to find target with innerWindowId:6442451007"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442451007"
+console.error: "Unable to find target with innerWindowId:10737418246"
+console.error: "Unable to find target with innerWindowId:6442451007"
+console.error: "Unable to find target with innerWindowId:10737418246"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442451022"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418247"
+console.error: "Unable to find target with innerWindowId:6442451022"
+console.error: "Unable to find target with innerWindowId:10737418247"
+console.error: "Unable to find target with innerWindowId:6442451022"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Task cancelled"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418248"
+console.error: (new TypeError(" is not a valid URL.", "resource://gre/modules/NetworkGeolocationProvider.sys.mjs", 499))
+console.error: "Unable to find target with innerWindowId:6442451037"
+console.error: "Unable to find target with innerWindowId:10737418248"
+console.error: "Unable to find target with innerWindowId:6442451037"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Task cancelled"
+console.error: "Unable to find target with innerWindowId:6442451052"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Task cancelled"
+console.error: "Unable to find target with innerWindowId:6442451065"
+console.error: "Unable to find target with innerWindowId:6442451065"
+JavaScript warning: https://assets.adobedtm.com/a83cfb422665/6969f0a69b1e/launch-883ee2cb26fd.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418249"
+console.error: "Unable to find target with innerWindowId:6442451065"
+console.error: "Unable to find target with innerWindowId:10737418249"
+console.error: "Unable to find target with innerWindowId:6442451065"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:748:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:619:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:349:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBri[GFdgeChild receives IPC cloX1-]: CompositorBridgeChild recesives IPC cleose with reason=AbnormalShutdow n
+with[ reason=AbnormalShutdownG
+FX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.

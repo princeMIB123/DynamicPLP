@@ -1,0 +1,21 @@
+[
+  {
+    "keyword":" Dell laptops",
+    "keylist": "\n0.price_group\n1.SG-ManufacturerDetails-Brand\n2.SG-LaptopProcessorDetails-Name\n3.SG-LaptopInternalMemory-RAM\n4.discount_group\n5.delivery_mode\n6.SG-ProductAesthetics-ColorFamily\n7.SG-LaptopProcessorDetails-Generation\n8.SG-StorageSpecification-SSDCapacity\n9.SG-CompanyContactInformation-CountryofBrand\n10.SG-GraphicProcessor-Brand\n11.SG-CompanyContactInformation-CountryofOrigin\n12.SG-LaptopScreenSpecifications-Size_range\n13.SG-LaptopScreenSpecifications-Resolution\n14.SG-LaptopCategory-Lifestyle\n15.SG-OperatingSystem-OSType\n16.SG-LaptopCategory-LaptopType\n17.SG-OperatingSystem-OSName&Version\n18.SG-StorageSpecification-TypeOfStorage\n19.BUYBACKFLAG\n20.SG-StorageSpecification-HDDCapacity",
+    "explanation" : "The given keyword Dell laptops has only the information about brand DELL ",
+    "output": "1"
+  },
+  {
+    "keyword":" Dell laptops below 50000",
+    "keylist": "0.price_group\n1.SG-ManufacturerDetails-Brand\n2.SG-LaptopProcessorDetails-Name\n3.SG-LaptopInternalMemory-RAM\n4.discount_group\n5.delivery_mode\n6.SG-ProductAesthetics-ColorFamily\n7.SG-LaptopProcessorDetails-Generation\n8.SG-StorageSpecification-SSDCapacity\n9.SG-CompanyContactInformation-CountryofBrand\n10.SG-GraphicProcessor-Brand\n11.SG-CompanyContactInformation-CountryofOrigin\n12.SG-LaptopScreenSpecifications-Size_range\n13.SG-LaptopScreenSpecifications-Resolution\n14.SG-LaptopCategory-Lifestyle\n15.SG-OperatingSystem-OSType\n16.SG-LaptopCategory-LaptopType\n17.SG-OperatingSystem-OSName&Version\n18.SG-StorageSpecification-TypeOfStorage\n19.BUYBACKFLAG\n20.SG-StorageSpecification-HDDCapacity",
+    "explanation" : "The given keyword has only the information about brand DELL and price details of below 50000",
+    "output": "0,1"
+  },
+  {
+    "keyword":" Lenova laptops below 50000 with i5 processer 11th generation",
+    "keylist": "0.price_group\n1.SG-ManufacturerDetails-Brand\n2.SG-LaptopProcessorDetails-Name\n3.SG-LaptopInternalMemory-RAM\n4.discount_group\n5.delivery_mode\n6.SG-ProductAesthetics-ColorFamily\n7.SG-LaptopProcessorDetails-Generation\n8.SG-StorageSpecification-SSDCapacity\n9.SG-CompanyContactInformation-CountryofBrand\n10.SG-GraphicProcessor-Brand\n11.SG-CompanyContactInformation-CountryofOrigin\n12.SG-LaptopScreenSpecifications-Size_range\n13.SG-LaptopScreenSpecifications-Resolution\n14.SG-LaptopCategory-Lifestyle\n15.SG-OperatingSystem-OSType\n16.SG-LaptopCategory-LaptopType\n17.SG-OperatingSystem-OSName&Version\n18.SG-StorageSpecification-TypeOfStorage\n19.BUYBACKFLAG\n20.SG-StorageSpecification-HDDCapacity",
+    "explanation" : "The given keyword has only the information about brand Lenova and price details of below 50000 and processer and generation",
+    "output": "0,1,2,7"
+
+  }
+]

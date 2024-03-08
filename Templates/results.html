@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #191919;
+            color: #ffffff;
+            padding: 20px;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+            color: #12daa8;
+        }
+
+        .result-container {
+            background-color: #191919a;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .product-info {
+            width: calc(30% - 0px); /* Adjust the width as needed */
+            margin-right: 20px; /* Adjust margin between divs */
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            background-color: #191919a;
+            display: inline-block; /* Display li tags in a row */
+            vertical-align: top; /* Align the divs to the top of the line */
+        }
+
+        .product-img img {
+            max-width: 100%;
+            height: auto;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+
+        .product-title {
+            padding: 20px;
+        }
+
+        .product-title p {
+            margin: 0;
+            font-size: 18px;
+            font-weight: bold;
+            color: #fff7f7;
+        }
+
+        .product-price {
+            font-size: 16px;
+            font-weight: bold;
+            color: #12daa8;
+        }
+        #price{
+
+        }
+
+        .product-price:before {
+            content: "Price: ";
+        }
+
+        .product-price span {
+            font-size: 14px;
+            font-weight: normal;
+            color: #666;
+        }
+
+        .discount-value {
+            color: #FF0000;
+            font-weight: bold;
+        }
+
+        .discount {
+            color: #FF0000;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+
+        .delivery-text-msg {
+            margin-left: 10px;
+        }
+
+        /* Clear the inline-block to move to the next line */
+        .clearfix::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #12daa8;
+}
+
+        /* Hover effect */
+        .product-info:hover {
+            transform: translateY(-5px);
+            transition: transform 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Search Results</h1>
+    <div class="result-container">
+        <h2>{{ long_tail }}</h2>
+    </div>
+    <div class="clearfix">
+        <ul>
+            <li>
+                {% for element in products %}
+                <div class="product-info">
+                    <div class="product_container">
+                        <div class="product-img">
+                            <img src="{{element['plpImage'] }}" />
+                            <div class="product-title">
+                                <p>{{element["name"]}}</p>
+                                <h4 >Rs.{{element["price"]["value"]}}</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% if loop.index % 3 == 0 %}
+            </li>
+            <li>
+                {% endif %}
+                {% endfor %}
+            </li>
+        </ul>
+
+    </div>
+</body>
+</html>
