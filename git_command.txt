@@ -7,7 +7,7 @@ git push -u origin main
 git remote add origin https://github.com/princeMIB123/dynamicplp.git
 git add .
 git commit -m "Features:added"
-git branch -M  webapp [Rename]
+git branch -M  webapp
 git push -u origin  webapp
 
 git branch
